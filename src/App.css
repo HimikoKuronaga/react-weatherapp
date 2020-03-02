@@ -36,3 +36,9 @@
     transform: rotate(360deg);
   }
 }
+
+.detail{
+  background: #999;
+  height: 100vh;
+  widows: 100%;
+}
