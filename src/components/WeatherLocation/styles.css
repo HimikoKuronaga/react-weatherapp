@@ -17,10 +17,10 @@
     width: calc(100%-20px);
     margin-left: 10px ;
     margin-right: 10px;
-    min-width: 350px;
-    box-sizing: border-box;
+    min-width: 430px;
     padding: 25px;
+    box-sizing: border-box;
     font-family: 'Roboto', 'sans-serif';
     box-shadow: 10px 10px 40px -12px rgba(0, 0, 0, 0.75);
-
+    cursor: pointer;
 }
